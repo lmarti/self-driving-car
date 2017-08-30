@@ -1,5 +1,6 @@
 #CH2_002
 ##ROSBAG training data with very similar driving conditions to Ch2_001
+
 | Date | Lighting Conditions | Duration | Compressed Size | Direct Download | Torrent | MD5 |
 | ---- | :------------------:| --------:| ---------------:|:---------------:|:-------:|:---:|
 | 11/18/2016 | Daytime/Shadows | -- | 4.4GB | None | [Torrent](https://github.com/udacity/self-driving-car/blob/master/datasets/CH2/Ch2_002.tar.gz.torrent) | f3178f88d9b970ed19be01d700b52a9f |
@@ -12,6 +13,7 @@
 
 #CH2_001
 ##Final Round Test Data: JPG and Filtered ROSBAG
+
 | Date | Lighting Conditions | Duration | Compressed Size | Direct Download | Torrent | MD5 |
 | ---- | :------------------:| --------:| ---------------:|:---------------:|:-------:|:---:|
 | 11/18/2016 | Daytime/Shadows | 280s | 456 MB | Avail. Soon | [Torrent](https://github.com/udacity/self-driving-car/blob/master/datasets/CH2/Ch2_001.tar.gz.torrent) | 844ad71fe6a44eb50d1183aed0e71efc |
